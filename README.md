@@ -13,4 +13,9 @@ Your branch is up to date with 'origin/main'.
 
 nothing to commit, working tree clean
 PS E:\Projects\Version Control\University\VersionControl\VersionControl> 
-3) 
+3) nothing to commit, working tree clean
+PS E:\Projects\Version Control\University\VersionControl\VersionControl> echo touch main.o
+touch
+main.o
+PS E:\Projects\Version Control\University\VersionControl\VersionControl> echo touch main.o >.gitignore 
+PS E:\Projects\Version Control\University\VersionControl\VersionControl> 
