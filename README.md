@@ -70,6 +70,23 @@ PS E:\Projects\Version Control\University\VersionControl\VersionControl>
 PS E:\Projects\Version Control\University\VersionControl\VersionControl>   
 --------------------------------------------------------------------------------------
 11) PS E:\Projects\Version Control\University\VersionControl\VersionControl>  git add ready
+-------------------------------------------------------------------------------------------
+12) PS E:\Projects\Version Control\University\VersionControl\VersionControl>   git status
+>>
+On branch main
+Your branch is ahead of 'origin/main' by 2 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   README.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+PS E:\Projects\Version Control\University\VersionControl\VersionControl> 
+------------------------------------------------------------------------------------
+13)               
+
 
 
 
